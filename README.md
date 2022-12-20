@@ -17,3 +17,7 @@
 
 
 ## 12/20
+
+#### pandas 버전 최신버전
+> !pip install pandas --upgrade  (jupyter lab에서 설치하려면 앞에 ! 를 붙인다)
+
