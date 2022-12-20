@@ -19,3 +19,7 @@ pip install numpy==1.21.0
 ```
 !pip install pandas --upgrade  #jupyter lab에서 설치하려면 앞에 ! 를 붙인다
 ```
++ 구글 드라이브에서 다운 받아오는 모듈
+```
+!pip install gdown
+```
