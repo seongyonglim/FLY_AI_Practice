@@ -23,3 +23,16 @@ pip install numpy==1.21.0
 ```
 !pip install gdown
 ```
+## 12/21
++ matplotlib 최신버전
+```
+!pip install --upgrade --user matplotlib
+```
++ pillow 최신버전 설치 (이미지 처리)
+```
+!pip install pillow
+```
++ seaborn 최신버전 설치
+```
+!pip install seaborn --upgrade --user
+```
