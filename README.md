@@ -36,3 +36,7 @@ pip install numpy==1.21.0
 ```
 !pip install seaborn --upgrade --user
 ```
+
+## 12/22~12/29
++ COVID 확진 판정으로 인해 수업 불참
+
