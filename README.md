@@ -14,3 +14,10 @@
 !pip install lightgbm
 ```
 + kaggle titanic 다른 분들의 작성 코드 학습
+
+## 1/2
++ LinearRegression (선형 회귀)
++ Gradient Descent (경사 하강법)
++ LogisticRegression (로지스틱 회귀)
++ Perceptron (퍼셉트론)
++ Backpropagation (오차 역전파) *** 중요
