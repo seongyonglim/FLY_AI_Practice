@@ -1,6 +1,10 @@
 # FLY AI 수업
 
+<<<<<<< HEAD
 ## 12/19 
+=======
+## 12/19
+>>>>>>> 7892e80ed04f959e7c7449626210d0996258cff2
 
 + conda 가상환경 3.8 - colab 맞추기
 
@@ -35,6 +39,7 @@ pip install numpy==1.21.0
 + seaborn 최신버전 설치
 ```
 !pip install seaborn --upgrade --user
+<<<<<<< HEAD
 ```
 
 ## 12/22~12/29
@@ -55,3 +60,6 @@ pip install numpy==1.21.0
 !pip install lightgbm
 ```
 + kaggle titanic 다른 분들의 작성 코드 학습
+=======
+```
+>>>>>>> 7892e80ed04f959e7c7449626210d0996258cff2
